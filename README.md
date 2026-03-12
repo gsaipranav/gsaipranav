@@ -70,10 +70,6 @@ I focus on building systems that are correct, maintainable, and built to last �
 - 🛠️ Exploring **LLM-integrated backend systems** — reliable AI service wrappers and APIs
 - 📐 Interested in **platform engineering** to accelerate developer productivity at scale
 
----
-
-
----
 
 <div align="center">
 <sub>Open to Software Engineer II . Senior Software Engineer . Distributed Systems roles</sub>
