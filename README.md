@@ -3,9 +3,9 @@
 # Sai Pranav
 ### Software Development Engineer II 路 Backend 路 Distributed & Event-Driven Systems
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/saipranav)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:your@email.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/gadasanthalasaipranav)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:gadasanthalasaipranav5@email.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/gsaipranav)
 
 </div>
 
@@ -72,18 +72,9 @@ I focus on building systems that are correct, maintainable, and built to last 鈥
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=e8a020&icon_color=e8a020)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=e8a020)
-
-</div>
 
 ---
 
 <div align="center">
-<sub>Open to Senior SDE 路 Staff Engineer 路 Distributed Systems roles</sub>
+<sub>Open to Software Engineer II . Senior Software Engineer . Distributed Systems roles</sub>
 </div>
